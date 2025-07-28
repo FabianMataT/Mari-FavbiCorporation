@@ -1,4 +1,4 @@
-namespace Mari_FabiCorporation.Models
+namespace MariFabiCorporation.Models
 {
     public class ErrorViewModel
     {

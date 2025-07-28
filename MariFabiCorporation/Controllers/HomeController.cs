@@ -1,8 +1,8 @@
-using Mari_FabiCorporation.Models;
+using MariFabiCorporation.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace Mari_FabiCorporation.Controllers
+namespace MariFabiCorporation.Controllers
 {
     public class HomeController : Controller
     {
